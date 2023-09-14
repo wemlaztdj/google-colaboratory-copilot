@@ -1,6 +1,7 @@
 # google colab copilot 
 
-## Update the model to text-davinci-003
+## Update the model
+Since code-davinci-002 is offline, the model change to text-davinci-003 for demo
 
 [website](http://copilot.naklecha.com/)
 
