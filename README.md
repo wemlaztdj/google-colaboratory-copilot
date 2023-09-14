@@ -1,5 +1,7 @@
 # google colab copilot 
 
+update the model to text-davinci-003
+
 [website](http://copilot.naklecha.com/)
 
 [setup guide](https://bevel-pufferfish-154.notion.site/Getting-started-with-Copilot-7be0d614295a4836b84fb9cf7c909227)
