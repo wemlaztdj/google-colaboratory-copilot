@@ -1,6 +1,6 @@
 # google colab copilot 
 
-update the model to text-davinci-003
+## Update the model to text-davinci-003
 
 [website](http://copilot.naklecha.com/)
 
