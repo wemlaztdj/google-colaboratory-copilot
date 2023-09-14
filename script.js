@@ -8,10 +8,10 @@ const generate = async (prompt) => {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
-            Authorization: `Bearer ${key}`,
+            'Authorization': `Bearer ${key}`,
         },
         body: JSON.stringify({
-            model: 'code-davinci-002',
+            model: 'text-davinci-003',
             prompt: prompt,
             max_tokens: 1000,
             temperature: 0,
